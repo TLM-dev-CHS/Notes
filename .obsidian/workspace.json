@@ -11,10 +11,14 @@
             "id": "961c387eb71f5fb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/12th Grade/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,11 +177,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ea2ba6df8244c4a",
+  "active": "961c387eb71f5fb8",
   "lastOpenFiles": [
+    "School/11th Grade/Untitled.md",
+    "School/12th Grade/Untitled.md",
+    "School/10th Grade/STEM II Honors/Untitled.md",
+    "School/10th Grade/Spanish I Honors/Untitled.md",
+    "School/10th Grade/AP World History/Untitled.md",
+    "School/10th Grade/AP Physics 1/Untitled.md",
     "School/12th Grade",
     "School/11th Grade",
     "School/10th Grade/Spanish I Honors",
@@ -188,7 +199,6 @@
     "School/10th Grade/Physics",
     "School/10th Grade/AP",
     "School/10th Grade",
-    "School",
     "Welcome.md"
   ]
 }
